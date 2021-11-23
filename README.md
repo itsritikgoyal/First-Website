@@ -1,2 +1,2 @@
 # Website Link
-https://itsritikgoyal.github.io/Static-Website/
+https://itsritikgoyal.github.io/Makein/
